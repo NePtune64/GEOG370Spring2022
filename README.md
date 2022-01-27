@@ -1,1 +1,2 @@
-# GEOG370Spring2022
+# GEOG 370 Spring 2022
+
