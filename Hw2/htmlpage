@@ -7,10 +7,8 @@
 </head>
 <body>
     
-    <a href="https://github.com/NePtune64/GEOG370Spring2022/blob/main/MAP_HWK2.png">
-    <img src="https://github.com/NePtune64/GEOG370Spring2022/blob/main/MAP_HWK2.png" width='750px'>
-    
-
+    <a href="./MAP_HWK2.png">
+    <img src="./MAP_HWK2.png" width='750px'>
     </a>
     <h4>Data used for this project is from:</h4><a href="http://www.ci.carrboro.nc.us/145/Download-Data"> DataLB </a>
     <h4>Vector Files</h4>
