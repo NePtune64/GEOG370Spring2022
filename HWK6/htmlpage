@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Homework 7: Census data choropleth</h1>
+    <h2>Benjamin Jacobs</h2>
+    <h3>Percent of the population aged 18-24 that has not achieved a highschool diploma. The results are by county in the State of North Carolina. The darker the shade of green, the higher percentage of non-highschool graduates aged 18-24 there are.</h3>
+
+    <!-- a png image of your map will be embedded using the lines below  -->
+    <a href="https://sakai.unc.edu/access/content/group/26f52766-b10b-462c-9750-f871907deeac/Data/04_Tabular_Data/insert_file_name_here"> 
+        <img src="template_files/insert_file_path_here.html" alt="your map" width="500px">
+        </a>
+
+    <!-- here you will link your data sources -->
+    <h2>Data used for this project</h2>
+    <a href="https://sakai.unc.edu/access/content/group/26f52766-b10b-462c-9750-f871907deeac/Data/04_Tabular_Data/insert_file_path_here">Link to cleaned CSV dataset</a>
+    <p></p>
+    <a href="https://sakai.unc.edu/access/content/group/26f52766-b10b-462c-9750-f871907deeac/Data/04_Tabular_Data/insert_file_path_here">Link to geoJSON</a>
+
+
+</body></html>
